@@ -12,5 +12,6 @@ public class GitDemett {
             System.out.println("merhaba");
 
         }
+        System.out.println("merhaba 6");
     }
 }
